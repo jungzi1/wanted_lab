@@ -27,8 +27,8 @@
 
 # 📋 모델링 ERD
 
-![erd](![image](https://github.com/user-attachments/assets/80f4f68b-253b-4282-a823-8039fa740857)
-)
+![image](https://github.com/user-attachments/assets/576b3e9e-7086-46bb-bc35-2faec38fb617)
+
 - companies와 company_names는 one-to-many 관계
   + companies가 여러 언어의 명의를 가질수 있음, 언어가 추가 될 수있음
   + 언어는 company_names의 language_code로 관리
